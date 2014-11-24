@@ -15,8 +15,8 @@ The current course consists of 6 three hour sessions:
 * [Workshop-1 Introduction to Python and Plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop1/workshop_1.ipynb)
 * [Workshop-2 Statistics and Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop2/workshop_2.ipynb)
 * [Workshop-3 Modules Functions and Non Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop3/workshop_3.ipynb)
-* [Exercise-1 Examination of large datasets and Fitting Kinetics Data](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercise1/exercise_1.ipynb)
-* [Exercise-2 Examination of Gaussian Functions and Fitting Spectra](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercise2/exercise_2.ipynb)
+* [Exercise-1 Examination of large datasets and Fitting Kinetics Data](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises1/exercise_1.ipynb)
+* [Exercise-2 Examination of Gaussian Functions and Fitting Spectra](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises2/exercise_2.ipynb)
 
 Course developers
 Clyde Fare
