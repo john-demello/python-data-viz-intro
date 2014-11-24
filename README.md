@@ -3,9 +3,9 @@ An introduction to data visualisation and analysis using Python
 
 This is Imperial College's Year 1 Data Analysis and Visualisation using Python for first year chemistry undergraduates.
 
-It is a series of IPython notebooks that introduces students to visualization and data analysis using Python as a platform. 
+It is a series of IPython notebooks that introduce students to visualization and data analysis using Python as a platform. 
 
-The current course consists of 6 three hour session, consisting of 3 Workshops where concepts are introduced and students are guided on how to complete tasks, 2 Exercise sessions where problems are given and students are expected to complete tasks in a more autonomous fashion and a final open session covering spill over from the previous 5.
+The first three workshops introduce concepts and students are guided through completing tasks. The final two exercise sessions involve problems where students are expected to complete tasks in a more autonomous fashion.
 
 * [Workshop-1 Introduction to Python and Plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop1/workshop_1.ipynb)
 
