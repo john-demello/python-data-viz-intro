@@ -1,4 +1,4 @@
-An intro to data vizualisation and analysis using Python
+An introduction to data visualisation and analysis using Python
 -------
 
 This is Imperial College's Year 1 Data Analysis and Visualisation using Python for first year chemistry undergraduates.
