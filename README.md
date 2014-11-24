@@ -17,6 +17,6 @@ The current course consists of 6 three hour session, consisting of 3 Workshops w
 
 * [Exercise-2 Examination of Gaussian Functions and Fitting Spectra](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises2/exercise_2.ipynb)
 
-The notebooks and related materials are available for download via the button on the right or through the following [link](https://github.com/imperialchem/python-data-viz-intro/archive/master.zip). 
+The notebooks and related materials are available for download via the download zip button on the right or through the following [link](https://github.com/imperialchem/python-data-viz-intro/archive/master.zip). 
 
 If you have feedback or suggestions for the course please email the [course coordinators](mailto:python@imperial.ac.uk)
