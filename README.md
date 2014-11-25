@@ -1,19 +1,19 @@
 An introduction to data visualisation and analysis using Python
 -------
 
-These IPython notebooks form the basis of a course on data analysis and visualization thought at the [Chemistry Department of Imperial College London](http://www.imperial.ac.uk/chemistry) as part of the first year undergraduate curriculum.
-The purpose of the course is to introduce the basic data analysis techniques required to interpret experimental (or otherwise) data collected in the laboratory, along with exposing the IPython notebook as an electronic, multi-media and computation-able notebook the students are encouraged to use through their degree.
+These IPython notebooks form the basis of a course on data analysis and visualization taught at the [Chemistry Department of Imperial College London](http://www.imperial.ac.uk/chemistry) as part of the first year undergraduate curriculum.
+The purpose of the course is to introduce the basic data analysis techniques required to interpret experimental (or otherwise) data collected in the laboratory, along with introducing the IPython notebook as an electronic, multi-media, interactive computing notebook that students are encouraged to use throughout their degree.
 
-While deliberately avoiding exposing students to computer programming, this course could serve as a pre-introduction to the subject. The students are exposed to the notions of variables, data structures in the form of arrays, functions, and more generally to a computing platform and the Python language.
+Whilst the focus of the course is not computer programming, it could serve as a pre-introduction to the subject. It introduces variables, data structures in the form of arrays, functions, and more generally a computing platform: the Python language.
 
-The course was design as a self learning interactive exercise using IPython notebooks.
-The first three workshops introduce concepts and students are guided through completing tasks. The final two exercise sessions involve problems where students are expected to complete tasks in a more autonomous fashion.
+The course was designed as a series of self-learning interactive exercises using IPython notebooks.
+The first three notebooks introduce concepts interactively while the two exercise notebooks develop problem solving based on these concepts.
 
 * [Workshop-1 Introduction to Python and Plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop1/workshop_1.ipynb)
 
 * [Workshop-2 Statistics and Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop2/workshop_2.ipynb)
 
-* [Workshop-3 Modules, Functions and Non Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop3/workshop_3.ipynb)
+* [Workshop-3 Modules, Functions, Non Linear Fitting and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop3/workshop_3.ipynb)
 
 * [Exercise-1 Descriptive statistics and analysis of chemical kinetics data](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises1/exercise_1.ipynb)
 
