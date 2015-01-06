@@ -19,6 +19,6 @@ The first three notebooks introduce concepts interactively while the two exercis
 
 * [Exercise-2 Chromatogram analysis and spectral fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises2/exercise_2.ipynb)
 
-The notebooks and related materials are made available under the [Creative Commons Attribution 3.0 (CC-by) license](http://creativecommons.org/licenses/by/3.0/), and can be downloaded as a [zip archive](https://github.com/imperialchem/python-data-viz-intro/archive/master.zip) (or using the "download zip" button on the right).
+The notebooks and related materials are made available under the [Creative Commons Attribution 3.0 (CC-by) license](http://creativecommons.org/licenses/by/3.0/), and can be downloaded as a [zip archive](https://github.com/imperialchem/python-data-viz-intro/archive/master.zip) (or using the "download zip" button on the right). In order to use the notebooks interactively in your computer you will need to have installed a scientific python distribution (version 3.x), such as [Anaconda](http://continuum.io/downloads#py34).
 
 We are interested in your [feedback](mailto:python@imperial.ac.uk) and to hear about other ways this material is being used.
