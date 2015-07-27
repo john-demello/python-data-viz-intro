@@ -9,15 +9,15 @@ Whilst the focus of the course is not computer programming, it could serve as a 
 The course was designed as a series of self-learning interactive exercises using IPython notebooks.
 The first three notebooks introduce concepts interactively while the two exercise notebooks develop problem solving based on these concepts.
 
-* [Workshop-1 Introduction to Python and Plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop1/workshop_1.ipynb)
+* [Workshop-1 Introduction to Python and Plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/data_workshop1/data_workshop1.ipynb)
 
-* [Workshop-2 Statistics and Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop2/workshop_2.ipynb)
+* [Workshop-2 Statistics and Linear Fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/data_workshop2/data_workshop2.ipynb)
 
-* [Workshop-3 Modules, Functions, Non Linear Fitting and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/workshop3/workshop_3.ipynb)
+* [Workshop-3 Modules, Functions, Non Linear Fitting and 3D plotting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/data_workshop3/data_workshop3.ipynb)
 
-* [Exercise-1 Descriptive statistics and analysis of chemical kinetics data](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises1/exercise_1.ipynb)
+* [Exercise-1 Descriptive statistics and analysis of chemical kinetics data](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/data_workshop4/data_workshop4.ipynb)
 
-* [Exercise-2 Chromatogram analysis and spectral fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/exercises2/exercise_2.ipynb)
+* [Exercise-2 Chromatogram analysis and spectral fitting](http://nbviewer.ipython.org/urls/raw.github.com/imperialchem/python-data-viz-intro/master/data_workshop5/data_workshop5.ipynb)
 
 The notebooks and related materials are made available under the [Creative Commons Attribution 3.0 (CC-by) license](http://creativecommons.org/licenses/by/3.0/), and can be downloaded as a [zip archive](https://github.com/imperialchem/python-data-viz-intro/archive/master.zip) (or using the "download zip" button on the right). In order to use the notebooks interactively in your computer you will need to have installed a scientific python distribution (version 3.x), such as [Anaconda](http://continuum.io/downloads#py34).
 
