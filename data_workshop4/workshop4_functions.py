@@ -4,12 +4,10 @@ def fibonacci(sequence_length):
     if sequence_length < 1:
         print("Fibonacci sequence only defined for length 1 or greater")
         return
-    elif 0 < sequence_length < 3:
-        return sequence[:sequence_length]
-    else:
+    elif sequence_length >=3:
         for i in range(2,sequence_length): 
-            sequence.append(sequence[i-1]+sequence[i-2])
-        return sequence
+            sequence=sequence+[sequence[i-1]+sequence[i-2]]
+    return sequence
 
 def factorial(n):
     "Return the factorial of number *n*"

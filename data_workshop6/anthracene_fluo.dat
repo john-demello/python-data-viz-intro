@@ -1,3 +1,19 @@
+ATCSOLC.SPT
+
+Emission Scan
+Number of Scans 1
+Start 3.200000e+002 Nanometers, End 6.000000e+002 Nanometers
+Increment 1.000000e+000 Nanometers, Integration Time 1.000000e+000 Seconds
+Excit Mono 3.400000e+002 Nanometers
+
+ 1000.000
+ 1000.000
+ 1000.000
+ 1000.000
+Acquisition Mode s / r, Auto Zero No
+Blank Subtraction File 
+Correction Factor File 
+...............................................................................
 3.200000e+002	3.368747e+003
 3.210000e+002	3.305449e+003
 3.220000e+002	3.375160e+003
